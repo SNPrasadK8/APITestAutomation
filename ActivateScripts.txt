@@ -1,0 +1,5 @@
+cd C:\SNP\APITestAutomation\APITestAuto\apitestenv
+
+.\Scripts\activate
+
+cd C:\SNP\PyTestUdemy
